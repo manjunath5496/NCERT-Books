@@ -30,6 +30,19 @@
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(14).pdf" style="text-decoration:none;">NCERT Class-9 (Economics) </a></b></li> 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(15).pdf" style="text-decoration:none;"> NCERT Class-6 (Mathematics)  </a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(15).pdf" style="text-decoration:none;"> NCERT Class-6 (Mathematics)  </a></b></li> 
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(16).pdf" style="text-decoration:none;">NCERT Class-12 (Business Studies: Part 1)</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(17).pdf" style="text-decoration:none;">NCERT Class-11 (Sociology: Part 2)</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(18).pdf" style="text-decoration:none;">NCERT Class-11 (Political Science: Part 1)</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(19).pdf" style="text-decoration:none;">NCERT Class-10 (Political Science: Part 2)</a></b></li>
+
+
+
+
+
             
  </ul>
