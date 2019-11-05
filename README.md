@@ -104,6 +104,8 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(48).pdf" style="text-decoration:none;"> NCERT Class-11 (Accountancy: Part 1) </a></b></li>    
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(49).pdf" style="text-decoration:none;"> NCERT Class-11 (Business Studies) </a></b></li>  
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(50).pdf" style="text-decoration:none;"> NCERT Class-10 (History) </a></b></li> 
    
    
    
