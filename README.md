@@ -70,5 +70,17 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(33).pdf" style="text-decoration:none;"> NCERT Class-8 (Mathematics)  </a></b></li> 
 
-            
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(34).pdf" style="text-decoration:none;"> NCERT Class-11 (Biology Notes and Solutions)  </a></b></li>   
+   
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(35).pdf" style="text-decoration:none;"> NCERT Class-11 (Psychology)  </a></b></li>   
+   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(36).pdf" style="text-decoration:none;"> NCERT Class-11 (Exemplar Problems: Mathematics) </a></b></li>    
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(37).pdf" style="text-decoration:none;"> NCERT Class-11 (Exemplar Problems: Biology) </a></b></li>    
+   
+   
+   
+   
  </ul>
