@@ -53,6 +53,19 @@
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(26).pdf" style="text-decoration:none;">NCERT Class-11 (Accountancy: Part 2) </a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(27).pdf" style="text-decoration:none;"> NCERT Class-6 (Science)  </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(28).pdf" style="text-decoration:none;"> The Gist of NCERT Indian History </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(29).pdf" style="text-decoration:none;"> NCERT Class-7 (Political Science)  </a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(30).pdf" style="text-decoration:none;"> NCERT Class-7 (Science)  </a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(31).pdf" style="text-decoration:none;"> NCERT Class-7 (Mathematics)  </a></b></li> 
+
+
 
             
  </ul>
