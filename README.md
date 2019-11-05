@@ -65,7 +65,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(31).pdf" style="text-decoration:none;"> NCERT Class-7 (Mathematics)  </a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(32).pdf" style="text-decoration:none;"> NCERT Class-8 (Science)  </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(32).rar" style="text-decoration:none;"> NCERT Class-8 (Science)  </a></b></li> 
 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(33).pdf" style="text-decoration:none;"> NCERT Class-8 (Mathematics)  </a></b></li> 
