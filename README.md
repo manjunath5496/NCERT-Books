@@ -147,7 +147,17 @@
    
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(70).pdf" style="text-decoration:none;"> NCERT CLASS XI - Themes in World History </a></b></li> 
 
-
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(71).pdf" style="text-decoration:none;"> NCERT CLASS XII -  India People and Economy </a></b></li>    
+   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(72).pdf" style="text-decoration:none;">NCERT CLASS XII - Fundamental of Human Geography </a></b></li>    
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(73).pdf" style="text-decoration:none;"> NCERT CLASS XII - Social Change and Development in India</a></b></li>  
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(74).pdf" style="text-decoration:none;"> NCERT CLASS XII - Themes in Indian History- I </a></b></li> 
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(75).pdf" style="text-decoration:none;"> NCERT CLASS XII - Themes in Indian History- II </a></b></li>    
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(76).pdf" style="text-decoration:none;"> NCERT CLASS XII-  Themes in Indian History- III </a></b></li> 
 
 
 
