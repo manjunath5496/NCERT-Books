@@ -42,6 +42,16 @@
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(20).pdf" style="text-decoration:none;">NCERT Class-9 (Geography) </a></b></li> 
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(21).pdf" style="text-decoration:none;">NCERT Class-11 (Chemistry: Part 1) </a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(22).pdf" style="text-decoration:none;">NCERT Class-12 (Chemistry: Part 2) </a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(23).pdf" style="text-decoration:none;">NCERT Class-12 (Business Studies: Part 2) </a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(24).pdf" style="text-decoration:none;">NCERT Class-12 (Accountancy: Part 1) </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(25).pdf" style="text-decoration:none;">NCERT Class-12 (Accountancy: Part 2) </a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(26).pdf" style="text-decoration:none;">NCERT Class-11 (Accountancy: Part 2) </a></b></li> 
 
 
             
