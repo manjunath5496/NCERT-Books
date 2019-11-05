@@ -107,6 +107,13 @@
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(50).pdf" style="text-decoration:none;"> NCERT Class-10 (History) </a></b></li> 
    
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(51).pdf" style="text-decoration:none;"> Old NCERT World History Class-X </a></b></li>  
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(52).rar" style="text-decoration:none;"> NCERT Class-9 (Science) </a></b></li>   
+   
+   
+   
+   
    
    
  </ul>
