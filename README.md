@@ -91,10 +91,19 @@
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(42).pdf" style="text-decoration:none;"> NCERT Class-9 (English: Part 1) </a></b></li>     
    
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(43).pdf" style="text-decoration:none;"> NCERT Class-7 (English: Part 1) </a></b></li>    
    
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(44).pdf" style="text-decoration:none;"> NCERT Class-5 (English) </a></b></li>    
    
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(45).pdf" style="text-decoration:none;">  Solid State: NCERT Solution </a></b></li>    
    
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(46).pdf" style="text-decoration:none;"> Haloalkanes and haloarenes: NCERT Solution </a></b></li>   
    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(47).pdf" style="text-decoration:none;"> NCERT Class-11 (Exemplar Problems: Physics) </a></b></li>   
+   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(48).pdf" style="text-decoration:none;"> NCERT Class-11 (Accountancy: Part 1) </a></b></li>    
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Cardiology-Books/blob/master/dio(49).pdf" style="text-decoration:none;"> NCERT Class-11 (Business Studies) </a></b></li>  
    
    
    
